@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: e05add5f60b6246268fe6899d8382999
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rosatom
+  fontNames:
+  - Rosatom
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d2b9ea402889542f4b1300fb061b5c40, type: 3}
+  - {fileID: 12800000, guid: 69a29b17e51a947369ae8c4199a79711, type: 3}
+  - {fileID: 12800000, guid: b22a0777db96c498b9792081fdf8534d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

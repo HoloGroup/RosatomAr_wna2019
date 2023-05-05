@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: c4c58f3fb19a12c4cb1448f06ef3961e
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _T_Rounds: {fileID: 2800000, guid: 7449d83c88016b14f9aa2543a4dcd05a, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

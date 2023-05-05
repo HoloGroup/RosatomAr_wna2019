@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 97446fcab10680a488667198816d64ba
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _T_TrafficLight_01_AlbedoTransparency: {fileID: 2800000, guid: 16f5f5c6dba8dad4ba54a7aea955eeb8,
+      type: 3}
+  - _T_RGB_01: {fileID: 2800000, guid: 1e195dff8ccfc914594a76ff3e4e29c7, type: 3}
+  - _T_TrafficLight_01_MetallicSmoothness: {fileID: 2800000, guid: 20fb775438c148c459bb0020a0d9b61b,
+      type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

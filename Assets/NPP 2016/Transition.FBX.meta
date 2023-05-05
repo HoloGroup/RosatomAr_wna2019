@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: e292f044cf0d4aa4a9328f1e207c56c4
+timeCreated: 1463402739
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Animations
+    100002: Condencer Moisture
+    100004: Kontur1 Cold
+    100006: Kontur1 Cold001
+    100008: Kontur1 Hot
+    100010: Kontur1 Hot001
+    100012: Kontur2 RT Long
+    100014: Kontur2 TR Long
+    100016: Kontur2 TT Cold
+    100018: Kontur2 TT Hot
+    100020: Kontur3
+    100022: Line058
+    100024: Line059
+    100026: Line060
+    100028: Line061
+    100030: Line062
+    100032: Line063
+    100034: Line064
+    100036: Line067
+    100038: Reactor Ground
+    100040: Rotor
+    100042: Steam Planes
+    100044: SteamGeneratorSteam005
+    100046: //RootNode
+    100048: Turbine Insides
+    100050: UJA Hall Cut1
+    100052: UJA Hall Cut2
+    400000: Animations
+    400002: Condencer Moisture
+    400004: Kontur1 Cold
+    400006: Kontur1 Cold001
+    400008: Kontur1 Hot
+    400010: Kontur1 Hot001
+    400012: Kontur2 RT Long
+    400014: Kontur2 TR Long
+    400016: Kontur2 TT Cold
+    400018: Kontur2 TT Hot
+    400020: Kontur3
+    400022: Line058
+    400024: Line059
+    400026: Line060
+    400028: Line061
+    400030: Line062
+    400032: Line063
+    400034: Line064
+    400036: Line067
+    400038: Reactor Ground
+    400040: Rotor
+    400042: Steam Planes
+    400044: SteamGeneratorSteam005
+    400046: //RootNode
+    400048: Turbine Insides
+    400050: UJA Hall Cut1
+    400052: UJA Hall Cut2
+    2300000: Condencer Moisture
+    2300002: Kontur1 Cold
+    2300004: Kontur1 Cold001
+    2300006: Kontur1 Hot
+    2300008: Kontur1 Hot001
+    2300010: Kontur2 RT Long
+    2300012: Kontur2 TR Long
+    2300014: Kontur2 TT Cold
+    2300016: Kontur2 TT Hot
+    2300018: Kontur3
+    2300020: Line058
+    2300022: Line059
+    2300024: Line060
+    2300026: Line061
+    2300028: Line062
+    2300030: Line063
+    2300032: Line064
+    2300034: Line067
+    2300036: Reactor Ground
+    2300038: Rotor
+    2300040: Steam Planes
+    2300042: SteamGeneratorSteam005
+    2300044: Turbine Insides
+    2300046: UJA Hall Cut1
+    2300048: UJA Hall Cut2
+    3300000: Condencer Moisture
+    3300002: Kontur1 Cold
+    3300004: Kontur1 Cold001
+    3300006: Kontur1 Hot
+    3300008: Kontur1 Hot001
+    3300010: Kontur2 RT Long
+    3300012: Kontur2 TR Long
+    3300014: Kontur2 TT Cold
+    3300016: Kontur2 TT Hot
+    3300018: Kontur3
+    3300020: Line058
+    3300022: Line059
+    3300024: Line060
+    3300026: Line061
+    3300028: Line062
+    3300030: Line063
+    3300032: Line064
+    3300034: Line067
+    3300036: Reactor Ground
+    3300038: Rotor
+    3300040: Steam Planes
+    3300042: SteamGeneratorSteam005
+    3300044: Turbine Insides
+    3300046: UJA Hall Cut1
+    3300048: UJA Hall Cut2
+    4300000: Kontur2 TT Hot
+    4300002: Kontur1 Cold001
+    4300004: Steam Planes
+    4300006: Kontur3
+    4300008: Kontur2 TR Long
+    4300010: Kontur2 RT Long
+    4300012: Kontur1 Hot
+    4300014: Kontur2 TT Cold
+    4300016: Kontur1 Hot001
+    4300018: Line064
+    4300020: Line063
+    4300022: Line062
+    4300024: Line061
+    4300026: Line060
+    4300028: Line059
+    4300030: Line058
+    4300032: Condencer Moisture
+    4300034: Kontur1 Cold
+    4300036: SteamGeneratorSteam005
+    4300038: Rotor
+    4300040: Turbine Insides
+    4300042: Line067
+    4300044: UJA Hall Cut2
+    4300046: UJA Hall Cut1
+    4300048: Reactor Ground
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

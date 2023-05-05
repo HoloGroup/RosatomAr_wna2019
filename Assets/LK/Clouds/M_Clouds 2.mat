@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_Clouds 2
+  m_Shader: {fileID: 4800000, guid: d0420ede3fbebfc48999ee4d849881dd, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _NoiseTexture:
+        m_Texture: {fileID: 2800000, guid: 8687e96f5e73df142a9181e7c69823a1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture0:
+        m_Texture: {fileID: 28274280407872578, guid: fad282d72d15a8d48971b8f6f8caf360,
+          type: 2}
+        m_Scale: {x: 0.05, y: 0.05}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: 16d574e53541bba44a84052fa38778df, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample2:
+        m_Texture: {fileID: 2800000, guid: 5228a04ef529d2641937cab585cc1a02, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _CloudCutoff: 0.06
+    - _CloudSoftness: 1.04
+    - _Emissive_Add: 0
+    - _L_Bottom_Max: 1.18
+    - _L_Bottom_Min: -0.91
+    - _L_Max: 1.16
+    - _L_Min: -0.6
+    - _L_Top_Max: 0.97
+    - _L_Top_Min: 0
+    - _MainTile: 1
+    - _Multiply: 1
+    - _MultiplyBottom: 1
+    - _MultiplyTop: 9.2
+    - _OffsetDistance: 0.01
+    - _Speed: 0.00057142857
+    - _TaperPower: 0.5
+    - _Top_power: 4
+    - __dirty: 0
+    - _cloudHeight: 0.05
+    - _midYValue: 0.5262
+    m_Colors:
+    - _MainWindSpeed: {r: -0.005, g: 0, b: 0, a: 0}

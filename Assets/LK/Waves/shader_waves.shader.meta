@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 477d68ebcbced0c4c86d892288faaa1c
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _T_Wave_02: {fileID: 2800000, guid: 5587f32246486914c9933a54aca028b9, type: 3}
+  - _TextureSample2: {fileID: 2800000, guid: 8687e96f5e73df142a9181e7c69823a1, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
