@@ -36,12 +36,14 @@ namespace RenderHeads.Media.AVProVideo.Demos
 
 		private void Start()
 		{
+			/*
 #if UNITY_HAS_VRCLASS
 			if (UnityEngine.XR.XRDevice.isPresent)
 			{
 				return;
 			}
 #endif
+*/
 			if (SystemInfo.supportsGyroscope)
 			{
 				Input.gyro.enabled = true;
@@ -59,6 +61,7 @@ namespace RenderHeads.Media.AVProVideo.Demos
 
 		void Update()
 		{
+			/*
 #if UNITY_HAS_VRCLASS
 			if (UnityEngine.XR.XRDevice.isPresent)
 			{
@@ -76,6 +79,7 @@ namespace RenderHeads.Media.AVProVideo.Demos
 			}
 			else
 #endif
+*/
 			{
 				if (SystemInfo.supportsGyroscope)
 				{
