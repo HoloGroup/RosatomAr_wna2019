@@ -3308,7 +3308,7 @@ namespace AmplifyShaderEditor
 				else
 				{
 #if UNITY_2017_2_OR_NEWER
-					if( www.isNetworkError )
+					if (www.result != UnityWebRequest.Result.ConnectionError)
 #else
 					if( www.isError )
 #endif
@@ -3534,7 +3534,7 @@ namespace AmplifyShaderEditor
 				else
 				{
 #if UNITY_2017_2_OR_NEWER
-					if( www.isNetworkError )
+					if (www.result != UnityWebRequest.Result.ConnectionError)
 #else
 					if( www.isError )
 #endif

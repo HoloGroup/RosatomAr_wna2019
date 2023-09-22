@@ -188,6 +188,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -196,9 +198,9 @@ TextureImporter:
   maxTextureSize: 4096
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -219,9 +221,12 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
@@ -1404,6 +1409,62 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      stickers (1)_36: 21300072
+      stickers (1)_10: 21300020
+      stickers (1)_13: 21300026
+      stickers (1)_9: 21300018
+      stickers (1)_53: 21300106
+      stickers (1)_31: 21300062
+      stickers (1)_47: 21300094
+      stickers (1)_51: 21300102
+      stickers (1)_54: 21300108
+      stickers (1)_27: 21300054
+      stickers (1)_45: 21300090
+      stickers (1)_46: 21300092
+      stickers (1)_49: 21300098
+      stickers (1)_33: 21300066
+      stickers (1)_7: 21300014
+      stickers (1)_1: 21300002
+      stickers (1)_22: 21300044
+      stickers (1)_12: 21300024
+      stickers (1)_52: 21300104
+      stickers (1)_32: 21300064
+      stickers (1)_41: 21300082
+      stickers (1)_4: 21300008
+      stickers (1)_17: 21300034
+      stickers (1)_14: 21300028
+      stickers (1)_23: 21300046
+      stickers (1)_40: 21300080
+      stickers (1)_38: 21300076
+      stickers (1)_44: 21300088
+      stickers (1)_15: 21300030
+      stickers (1)_42: 21300084
+      stickers (1)_18: 21300036
+      stickers (1)_2: 21300004
+      stickers (1)_35: 21300070
+      stickers (1)_37: 21300074
+      stickers (1)_39: 21300078
+      stickers (1)_11: 21300022
+      stickers (1)_50: 21300100
+      stickers (1)_19: 21300038
+      stickers (1)_34: 21300068
+      stickers (1)_29: 21300058
+      stickers (1)_26: 21300052
+      stickers (1)_21: 21300042
+      stickers (1)_0: 21300000
+      stickers (1)_3: 21300006
+      stickers (1)_8: 21300016
+      stickers (1)_24: 21300048
+      stickers (1)_30: 21300060
+      stickers (1)_16: 21300032
+      stickers (1)_25: 21300050
+      stickers (1)_28: 21300056
+      stickers (1)_6: 21300012
+      stickers (1)_48: 21300096
+      stickers (1)_20: 21300040
+      stickers (1)_5: 21300010
+      stickers (1)_43: 21300086
   spritePackingTag: 
   pSDRemoveMatte: 1
   pSDShowRemoveMatteOption: 1

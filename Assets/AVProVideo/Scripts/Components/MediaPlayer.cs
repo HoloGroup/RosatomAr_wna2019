@@ -11,6 +11,7 @@
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.Networking;
 
 #if NETFX_CORE
 using Windows.Storage.Streams;
@@ -713,7 +714,7 @@ namespace RenderHeads.Media.AVProVideo
 
 			string subtitleData = string.Empty;
 #if UNITY_2017_1_OR_NEWER
-			if (!www.isNetworkError)
+			if (www.result != UnityWebRequest.Result.ConnectionError)
 #elif UNITY_5_4_OR_NEWER
 			if (!www.isError)
 #endif
